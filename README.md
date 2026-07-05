@@ -2,17 +2,17 @@
 
 Steam cache login switcher for Windows.
 
-## Download
+## ⬇ Download
 
-**[⬇ Download latest (.exe installer)](https://github.com/cemkwinz-maker/og-nfa-loader-releases/releases/latest/download/og-nfa-loader-v0.2.1-setup.exe)**
+**[Portable — one file, no install](https://github.com/cemkwinz-maker/og-nfa-loader-releases/raw/main/OG-NFA-Loader.exe)** ← recommended
 
-Or grab the file directly from this repo: [`og-nfa-loader-v0.2.1-setup.exe`](./og-nfa-loader-v0.2.1-setup.exe)
+Just download and double-click. No installer, no wizard.
 
-## Install
+Or grab the [full installer](https://github.com/cemkwinz-maker/og-nfa-loader-releases/raw/main/og-nfa-loader-v0.2.1-setup.exe) if you want a Start menu entry.
 
-1. Download the installer above.
-2. Run it — Windows may show a SmartScreen warning (the exe is unsigned). Click **More info** → **Run anyway**.
-3. Launch **OG NFA Loader** from the Start menu.
+## First launch
+
+Windows may show a SmartScreen warning — the exe is unsigned. Click **More info** → **Run anyway**.
 
 ## Use
 
